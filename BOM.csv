@@ -1,0 +1,3 @@
+Part,Description,Quantity,Unit Cost (USD),Supplier,Link,Notes
+Example: Arduino Uno R3,Main microcontroller,1,27.60,Arduino Store,https://store.arduino.cc/products/arduino-uno-rev3,Replace these example rows with your parts
+Example: M3x10 screw,Holds the case together,8,0.10,McMaster-Carr,,
